@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey, I'm Alex 👋
 
-<!--
-**apluskett/apluskett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Metropolitan State University of Denver finishing my Bachelor's in Computer Science (December 2026). I build things in Python mostly — ML microservices, AI agents, game loops, whatever the problem calls for.
 
-Here are some ideas to get you started:
+Long term goal? F1 systems engineering. Specifically the kind of work that happens when a race car becomes a 200mph rolling computer science experiment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I'm Working With
+
+**Languages** — Python · Java · Ruby · SQL · JavaScript  
+**Tools** — FastAPI · scikit-learn · XGBoost · Podman · Rails · React  
+**Environment** — Pop!_OS · COSMIC · Zed · ZSH · Cloudflare Tunnel  
+
+---
+
+## 🚧 Currently Building
+
+**Project Tyre Points** — An F1 fantasy platform with a custom scoring system that separates driver performance from car performance. Because your driver shouldn't lose points for being stuck in a backmarker.
+
+**ABS Metadata Provider** — A self-hosted Python scraper and metadata API server for Audiobookshelf. Because depending on third party providers for your own library is a solvable problem.
+
+---
+
+## 📚 Currently Learning
+
+- Red-Black trees and self-balancing data structures (Boot.dev)
+- Network security and distributed systems (MSU Denver, Fall 2026)
+- Probability and statistics for ML applications
+
+---
+
+## 🏎️ Outside of Code
+
+Formula 1 · One Piece · Gunpla · Board games · Resident Evil · Two cats named Jett and Megan who do not care about any of the above
+
+---
+
+## 📫 Get In Touch
+
+Open to internship opportunities in software engineering, ML engineering, or systems work.
+
+[![GitHub](https://img.shields.io/badge/github-apluskett-black?style=flat&logo=github)](https://github.com/apluskett)
