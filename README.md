@@ -40,5 +40,5 @@ Formula 1 · One Piece · Gunpla · Board games · Resident Evil · Two cats nam
 
 Open to internship opportunities in software engineering, ML engineering, or systems work.
 
-[![Static Badge](https://img.shields.io/badge/Apluskett-blue?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&label=GitHub&labelColor=black)](https://github.com/apluskett) ![Static Badge](https://img.shields.io/badge/linkedin-Alex_Pluskett-black?style=for-the-badge&logoSize=auto&labelColor=blue&color=black)
+[![Static Badge](https://img.shields.io/badge/Apluskett-blue?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&label=GitHub&labelColor=black)](https://github.com/apluskett) [![Static Badge](https://img.shields.io/badge/linkedin-Alex_Pluskett-black?style=for-the-badge&logoSize=auto&labelColor=blue&color=black)](https://www.linkedin.com/in/alex-pluskett/)
 
